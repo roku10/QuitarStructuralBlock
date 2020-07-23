@@ -1,0 +1,10 @@
+name: QuitarBloqueEstructural
+main: com.quitarbloquestructural.Main
+version: 0.0.1
+description: Quitar el bloque de abajo del jugador solo si eres el dueño de la plot y es un bloque estructural
+
+
+commands:
+
+ quitarstructure:
+   description: Quitar un bloque estructural
